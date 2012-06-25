@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="90750ba5-3caf-4d1c-8610-80fe4563c2fd" name="jjmiranda@HP430-JJM 2012-06-19 19:54:12" runUser="hp430-jjm\jjmiranda" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dd1c1eae-752d-4e30-9de4-3dd75135a14f">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment userDeploymentRoot="c:\users\jjmiranda\documents\visual studio 2010\Projects\Kata001FizzBuzz\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="jjmiranda_HP430-JJM 2012-06-19 19_54_12">
+      <DeploymentItem filename="c:\users\jjmiranda\documents\visual studio 2010\Projects\Kata001FizzBuzz\Kata001FizzBuzz\bin\Debug\Kata001FizzBuzz.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-19T19:54:12.2728838-05:00" queuing="2012-06-19T19:54:12.2818843-05:00" start="2012-06-19T19:54:12.2968852-05:00" finish="2012-06-19T19:54:12.6299042-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FizzBuzzTest_2_2" storage="c:\users\jjmiranda\documents\visual studio 2010\projects\kata001fizzbuzz\testfizzbuzzproject\bin\debug\testfizzbuzzproject.dll" id="8c38c296-0470-866d-4d16-f54f4f405fbb">
+      <Execution id="f053de55-d754-47a7-81b0-7ad9578c3957" />
+      <TestMethod codeBase="c:/users/jjmiranda/documents/visual studio 2010/Projects/Kata001FizzBuzz/TestFizzBuzzProject/bin/Debug/TestFizzBuzzProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestFizzBuzzProject.ProgramTest, TestFizzBuzzProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FizzBuzzTest_2_2" />
+    </UnitTest>
+    <UnitTest name="FizzBuzzTest_1_1" storage="c:\users\jjmiranda\documents\visual studio 2010\projects\kata001fizzbuzz\testfizzbuzzproject\bin\debug\testfizzbuzzproject.dll" id="650f0255-e9fa-0903-f398-d605bba4b6f4">
+      <Execution id="b43b1722-0e32-4da6-8671-c87ae87ee79e" />
+      <TestMethod codeBase="c:/users/jjmiranda/documents/visual studio 2010/Projects/Kata001FizzBuzz/TestFizzBuzzProject/bin/Debug/TestFizzBuzzProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestFizzBuzzProject.ProgramTest, TestFizzBuzzProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FizzBuzzTest_1_1" />
+    </UnitTest>
+    <UnitTest name="FizzBuzzTest_3_Fizz" storage="c:\users\jjmiranda\documents\visual studio 2010\projects\kata001fizzbuzz\testfizzbuzzproject\bin\debug\testfizzbuzzproject.dll" id="fec0e726-86b4-64be-f5b5-2bb7f0033443">
+      <Execution id="12878797-72c1-489b-9490-be414d7cd769" />
+      <TestMethod codeBase="c:/users/jjmiranda/documents/visual studio 2010/Projects/Kata001FizzBuzz/TestFizzBuzzProject/bin/Debug/TestFizzBuzzProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestFizzBuzzProject.ProgramTest, TestFizzBuzzProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FizzBuzzTest_3_Fizz" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="650f0255-e9fa-0903-f398-d605bba4b6f4" executionId="b43b1722-0e32-4da6-8671-c87ae87ee79e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c38c296-0470-866d-4d16-f54f4f405fbb" executionId="f053de55-d754-47a7-81b0-7ad9578c3957" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fec0e726-86b4-64be-f5b5-2bb7f0033443" executionId="12878797-72c1-489b-9490-be414d7cd769" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b43b1722-0e32-4da6-8671-c87ae87ee79e" testId="650f0255-e9fa-0903-f398-d605bba4b6f4" testName="FizzBuzzTest_1_1" computerName="HP430-JJM" duration="00:00:00.0230292" startTime="2012-06-19T19:54:12.3118860-05:00" endTime="2012-06-19T19:54:12.5949022-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b43b1722-0e32-4da6-8671-c87ae87ee79e">
+    </UnitTestResult>
+    <UnitTestResult executionId="f053de55-d754-47a7-81b0-7ad9578c3957" testId="8c38c296-0470-866d-4d16-f54f4f405fbb" testName="FizzBuzzTest_2_2" computerName="HP430-JJM" duration="00:00:00.0003772" startTime="2012-06-19T19:54:12.5979024-05:00" endTime="2012-06-19T19:54:12.6049028-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f053de55-d754-47a7-81b0-7ad9578c3957">
+    </UnitTestResult>
+    <UnitTestResult executionId="12878797-72c1-489b-9490-be414d7cd769" testId="fec0e726-86b4-64be-f5b5-2bb7f0033443" testName="FizzBuzzTest_3_Fizz" computerName="HP430-JJM" duration="00:00:00.0002810" startTime="2012-06-19T19:54:12.6069029-05:00" endTime="2012-06-19T19:54:12.6119032-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12878797-72c1-489b-9490-be414d7cd769">
+    </UnitTestResult>
+  </Results>
+</TestRun>

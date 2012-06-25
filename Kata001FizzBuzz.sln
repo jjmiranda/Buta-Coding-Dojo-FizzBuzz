@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata001FizzBuzz", "Kata001FizzBuzz\Kata001FizzBuzz.csproj", "{827892D6-FDDE-4712-80DC-E72CF8DD999A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFizzBuzzProject", "TestFizzBuzzProject\TestFizzBuzzProject.csproj", "{339DBA7C-8E7E-491D-BC7A-BF108EE25022}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6007FA9-A56C-4DB2-8315-21C2ED7F50D5}"
+	ProjectSection(SolutionItems) = preProject
+		Kata001FizzBuzz.vsmdi = Kata001FizzBuzz.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Kata001FizzBuzz.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Debug|x86.ActiveCfg = Debug|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Debug|x86.Build.0 = Debug|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Release|Any CPU.ActiveCfg = Release|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Release|x86.ActiveCfg = Release|x86
+		{827892D6-FDDE-4712-80DC-E72CF8DD999A}.Release|x86.Build.0 = Release|x86
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{339DBA7C-8E7E-491D-BC7A-BF108EE25022}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
